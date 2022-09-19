@@ -1,13 +1,13 @@
-package com.example.Inventory_ennea;
+package com.ennea.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InventoryEnneaApplication {
+public class InventoryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InventoryEnneaApplication.class, args);
+		SpringApplication.run(InventoryApplication.class, args);
 	}
 
 }
