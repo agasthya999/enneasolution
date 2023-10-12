@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class InventoryEnneaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InventoryEnneaApplication.class, args);
+		SpringApplication.run(InventoryEnneaApplication.class, ars);
 	}
 
 }
